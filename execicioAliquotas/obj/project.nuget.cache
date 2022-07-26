@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NmUg+OjNjeDYrRWb7NaIc9weQ3y9gTeaqZz6hg6hjBQ+fQazYO90rDbLeXbBMVlHncDLy8nXnU2W9jjG3n7G9A==",
+  "success": true,
+  "projectFilePath": "C:\\CSharp\\execicioAliquotas\\execicioAliquotas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.lira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

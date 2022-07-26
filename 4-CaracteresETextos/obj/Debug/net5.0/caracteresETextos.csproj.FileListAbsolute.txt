@@ -1,0 +1,16 @@
+C:\CSharp\caracteresETextos\bin\Debug\net5.0\caracteresETextos.exe
+C:\CSharp\caracteresETextos\bin\Debug\net5.0\caracteresETextos.deps.json
+C:\CSharp\caracteresETextos\bin\Debug\net5.0\caracteresETextos.runtimeconfig.json
+C:\CSharp\caracteresETextos\bin\Debug\net5.0\caracteresETextos.runtimeconfig.dev.json
+C:\CSharp\caracteresETextos\bin\Debug\net5.0\caracteresETextos.dll
+C:\CSharp\caracteresETextos\bin\Debug\net5.0\ref\caracteresETextos.dll
+C:\CSharp\caracteresETextos\bin\Debug\net5.0\caracteresETextos.pdb
+C:\CSharp\caracteresETextos\obj\Debug\net5.0\caracteresETextos.csproj.AssemblyReference.cache
+C:\CSharp\caracteresETextos\obj\Debug\net5.0\caracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\caracteresETextos\obj\Debug\net5.0\caracteresETextos.AssemblyInfoInputs.cache
+C:\CSharp\caracteresETextos\obj\Debug\net5.0\caracteresETextos.AssemblyInfo.cs
+C:\CSharp\caracteresETextos\obj\Debug\net5.0\caracteresETextos.csproj.CoreCompileInputs.cache
+C:\CSharp\caracteresETextos\obj\Debug\net5.0\caracteresETextos.dll
+C:\CSharp\caracteresETextos\obj\Debug\net5.0\ref\caracteresETextos.dll
+C:\CSharp\caracteresETextos\obj\Debug\net5.0\caracteresETextos.pdb
+C:\CSharp\caracteresETextos\obj\Debug\net5.0\caracteresETextos.genruntimeconfig.cache

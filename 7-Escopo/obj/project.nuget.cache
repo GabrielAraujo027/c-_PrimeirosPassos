@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HA7domZPLf0Gf3wGbJxb9yTjNztic/Wht2KyRMLfRjGOk5wEG1bpQw6dgIhLam/0UPdNNig3mHitlS9lkDQqpA==",
+  "success": true,
+  "projectFilePath": "C:\\CSharp\\Escopo\\Escopo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.lira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

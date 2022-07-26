@@ -1,0 +1,16 @@
+C:\CSharp\CalculoPoupanca\bin\Debug\net5.0\CalculoPoupanca.exe
+C:\CSharp\CalculoPoupanca\bin\Debug\net5.0\CalculoPoupanca.deps.json
+C:\CSharp\CalculoPoupanca\bin\Debug\net5.0\CalculoPoupanca.runtimeconfig.json
+C:\CSharp\CalculoPoupanca\bin\Debug\net5.0\CalculoPoupanca.runtimeconfig.dev.json
+C:\CSharp\CalculoPoupanca\bin\Debug\net5.0\CalculoPoupanca.dll
+C:\CSharp\CalculoPoupanca\bin\Debug\net5.0\ref\CalculoPoupanca.dll
+C:\CSharp\CalculoPoupanca\bin\Debug\net5.0\CalculoPoupanca.pdb
+C:\CSharp\CalculoPoupanca\obj\Debug\net5.0\CalculoPoupanca.csproj.AssemblyReference.cache
+C:\CSharp\CalculoPoupanca\obj\Debug\net5.0\CalculoPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\CalculoPoupanca\obj\Debug\net5.0\CalculoPoupanca.AssemblyInfoInputs.cache
+C:\CSharp\CalculoPoupanca\obj\Debug\net5.0\CalculoPoupanca.AssemblyInfo.cs
+C:\CSharp\CalculoPoupanca\obj\Debug\net5.0\CalculoPoupanca.csproj.CoreCompileInputs.cache
+C:\CSharp\CalculoPoupanca\obj\Debug\net5.0\CalculoPoupanca.dll
+C:\CSharp\CalculoPoupanca\obj\Debug\net5.0\ref\CalculoPoupanca.dll
+C:\CSharp\CalculoPoupanca\obj\Debug\net5.0\CalculoPoupanca.pdb
+C:\CSharp\CalculoPoupanca\obj\Debug\net5.0\CalculoPoupanca.genruntimeconfig.cache

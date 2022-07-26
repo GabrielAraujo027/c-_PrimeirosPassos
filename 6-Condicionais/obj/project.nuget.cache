@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJdXjTaxWBnSr4+PEPnouoJguy7YbvjQJj1Fe2zxFaifFsinJCwR02KsTlxz3Ka2hr4mkpUcfDJCaPIXdCklxA==",
+  "success": true,
+  "projectFilePath": "C:\\CSharp\\condicionais\\condicionais.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.lira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

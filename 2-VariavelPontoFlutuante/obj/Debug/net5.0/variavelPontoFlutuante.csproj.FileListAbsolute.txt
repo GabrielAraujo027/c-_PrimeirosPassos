@@ -1,0 +1,16 @@
+C:\CSharp\variavelPontoFlutuante\bin\Debug\net5.0\variavelPontoFlutuante.exe
+C:\CSharp\variavelPontoFlutuante\bin\Debug\net5.0\variavelPontoFlutuante.deps.json
+C:\CSharp\variavelPontoFlutuante\bin\Debug\net5.0\variavelPontoFlutuante.runtimeconfig.json
+C:\CSharp\variavelPontoFlutuante\bin\Debug\net5.0\variavelPontoFlutuante.runtimeconfig.dev.json
+C:\CSharp\variavelPontoFlutuante\bin\Debug\net5.0\variavelPontoFlutuante.dll
+C:\CSharp\variavelPontoFlutuante\bin\Debug\net5.0\ref\variavelPontoFlutuante.dll
+C:\CSharp\variavelPontoFlutuante\bin\Debug\net5.0\variavelPontoFlutuante.pdb
+C:\CSharp\variavelPontoFlutuante\obj\Debug\net5.0\variavelPontoFlutuante.csproj.AssemblyReference.cache
+C:\CSharp\variavelPontoFlutuante\obj\Debug\net5.0\variavelPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\variavelPontoFlutuante\obj\Debug\net5.0\variavelPontoFlutuante.AssemblyInfoInputs.cache
+C:\CSharp\variavelPontoFlutuante\obj\Debug\net5.0\variavelPontoFlutuante.AssemblyInfo.cs
+C:\CSharp\variavelPontoFlutuante\obj\Debug\net5.0\variavelPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\CSharp\variavelPontoFlutuante\obj\Debug\net5.0\variavelPontoFlutuante.dll
+C:\CSharp\variavelPontoFlutuante\obj\Debug\net5.0\ref\variavelPontoFlutuante.dll
+C:\CSharp\variavelPontoFlutuante\obj\Debug\net5.0\variavelPontoFlutuante.pdb
+C:\CSharp\variavelPontoFlutuante\obj\Debug\net5.0\variavelPontoFlutuante.genruntimeconfig.cache

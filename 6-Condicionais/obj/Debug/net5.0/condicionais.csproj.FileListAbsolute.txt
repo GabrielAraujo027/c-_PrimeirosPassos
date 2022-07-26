@@ -1,0 +1,16 @@
+C:\CSharp\condicionais\bin\Debug\net5.0\condicionais.exe
+C:\CSharp\condicionais\bin\Debug\net5.0\condicionais.deps.json
+C:\CSharp\condicionais\bin\Debug\net5.0\condicionais.runtimeconfig.json
+C:\CSharp\condicionais\bin\Debug\net5.0\condicionais.runtimeconfig.dev.json
+C:\CSharp\condicionais\bin\Debug\net5.0\condicionais.dll
+C:\CSharp\condicionais\bin\Debug\net5.0\ref\condicionais.dll
+C:\CSharp\condicionais\bin\Debug\net5.0\condicionais.pdb
+C:\CSharp\condicionais\obj\Debug\net5.0\condicionais.csproj.AssemblyReference.cache
+C:\CSharp\condicionais\obj\Debug\net5.0\condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\condicionais\obj\Debug\net5.0\condicionais.AssemblyInfoInputs.cache
+C:\CSharp\condicionais\obj\Debug\net5.0\condicionais.AssemblyInfo.cs
+C:\CSharp\condicionais\obj\Debug\net5.0\condicionais.csproj.CoreCompileInputs.cache
+C:\CSharp\condicionais\obj\Debug\net5.0\condicionais.dll
+C:\CSharp\condicionais\obj\Debug\net5.0\ref\condicionais.dll
+C:\CSharp\condicionais\obj\Debug\net5.0\condicionais.pdb
+C:\CSharp\condicionais\obj\Debug\net5.0\condicionais.genruntimeconfig.cache
