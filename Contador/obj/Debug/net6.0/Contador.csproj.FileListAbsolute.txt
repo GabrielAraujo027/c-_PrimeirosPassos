@@ -1,0 +1,15 @@
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\bin\Debug\net6.0\Contador.exe
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\bin\Debug\net6.0\Contador.deps.json
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\bin\Debug\net6.0\Contador.runtimeconfig.json
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\bin\Debug\net6.0\Contador.dll
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\bin\Debug\net6.0\Contador.pdb
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\obj\Debug\net6.0\Contador.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\obj\Debug\net6.0\Contador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\obj\Debug\net6.0\Contador.AssemblyInfoInputs.cache
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\obj\Debug\net6.0\Contador.AssemblyInfo.cs
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\obj\Debug\net6.0\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\obj\Debug\net6.0\Contador.dll
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\obj\Debug\net6.0\refint\Contador.dll
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\obj\Debug\net6.0\Contador.pdb
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\obj\Debug\net6.0\Contador.genruntimeconfig.cache
+C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\Contador\obj\Debug\net6.0\ref\Contador.dll
