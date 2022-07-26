@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7kKPHQUncLVwNKHdr1c6Bqzps4gO0+YeCJYjNsSqXYlRpBXPKv6FeEE7nn1VNmJFx0mS/Qwfwypp37NHODMqKw==",
+  "success": true,
+  "projectFilePath": "C:\\CSharp\\variavelPontoFlutuante\\variavelPontoFlutuante.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.lira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

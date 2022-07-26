@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "psAkl2TJKMCqsH9ldO4TEGTAcakvNzWVOumMK3gjVT+VC46TLLjqA1kDDaiCNn7XirjJALJk8Cq5d36f9t7kDQ==",
+  "success": true,
+  "projectFilePath": "C:\\CSharp\\CalculoPoupanca\\CalculoPoupanca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.lira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

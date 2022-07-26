@@ -1,0 +1,16 @@
+C:\CSharp\variaveis\bin\Debug\net5.0\variaveis.exe
+C:\CSharp\variaveis\bin\Debug\net5.0\variaveis.deps.json
+C:\CSharp\variaveis\bin\Debug\net5.0\variaveis.runtimeconfig.json
+C:\CSharp\variaveis\bin\Debug\net5.0\variaveis.runtimeconfig.dev.json
+C:\CSharp\variaveis\bin\Debug\net5.0\variaveis.dll
+C:\CSharp\variaveis\bin\Debug\net5.0\ref\variaveis.dll
+C:\CSharp\variaveis\bin\Debug\net5.0\variaveis.pdb
+C:\CSharp\variaveis\obj\Debug\net5.0\variaveis.csproj.AssemblyReference.cache
+C:\CSharp\variaveis\obj\Debug\net5.0\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\variaveis\obj\Debug\net5.0\variaveis.AssemblyInfoInputs.cache
+C:\CSharp\variaveis\obj\Debug\net5.0\variaveis.AssemblyInfo.cs
+C:\CSharp\variaveis\obj\Debug\net5.0\variaveis.csproj.CoreCompileInputs.cache
+C:\CSharp\variaveis\obj\Debug\net5.0\variaveis.dll
+C:\CSharp\variaveis\obj\Debug\net5.0\ref\variaveis.dll
+C:\CSharp\variaveis\obj\Debug\net5.0\variaveis.pdb
+C:\CSharp\variaveis\obj\Debug\net5.0\variaveis.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kncOVwZfTbNycMy97nQByjqzuxofHBTMEVa8sTDVoMXqwMwDveK57mdT8ZeW/efxZi0w61SVLyDrHIhBeMftVg==",
+  "success": true,
+  "projectFilePath": "C:\\CSharp\\atribuicaoDeVariaveis\\atribuicaoDeVariaveis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.lira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

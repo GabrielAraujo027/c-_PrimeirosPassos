@@ -1,0 +1,16 @@
+C:\CSharp\execicioAliquotas\bin\Debug\net5.0\execicioAliquotas.exe
+C:\CSharp\execicioAliquotas\bin\Debug\net5.0\execicioAliquotas.deps.json
+C:\CSharp\execicioAliquotas\bin\Debug\net5.0\execicioAliquotas.runtimeconfig.json
+C:\CSharp\execicioAliquotas\bin\Debug\net5.0\execicioAliquotas.runtimeconfig.dev.json
+C:\CSharp\execicioAliquotas\bin\Debug\net5.0\execicioAliquotas.dll
+C:\CSharp\execicioAliquotas\bin\Debug\net5.0\ref\execicioAliquotas.dll
+C:\CSharp\execicioAliquotas\bin\Debug\net5.0\execicioAliquotas.pdb
+C:\CSharp\execicioAliquotas\obj\Debug\net5.0\execicioAliquotas.csproj.AssemblyReference.cache
+C:\CSharp\execicioAliquotas\obj\Debug\net5.0\execicioAliquotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\execicioAliquotas\obj\Debug\net5.0\execicioAliquotas.AssemblyInfoInputs.cache
+C:\CSharp\execicioAliquotas\obj\Debug\net5.0\execicioAliquotas.AssemblyInfo.cs
+C:\CSharp\execicioAliquotas\obj\Debug\net5.0\execicioAliquotas.csproj.CoreCompileInputs.cache
+C:\CSharp\execicioAliquotas\obj\Debug\net5.0\execicioAliquotas.dll
+C:\CSharp\execicioAliquotas\obj\Debug\net5.0\ref\execicioAliquotas.dll
+C:\CSharp\execicioAliquotas\obj\Debug\net5.0\execicioAliquotas.pdb
+C:\CSharp\execicioAliquotas\obj\Debug\net5.0\execicioAliquotas.genruntimeconfig.cache

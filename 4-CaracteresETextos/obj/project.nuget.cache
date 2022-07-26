@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X4kqlVDFz1heo77fx4uaidaKokXdkiv+Hm50oU/Xp9J0u5/p3WnqBpAIBZQvFtE/LMZSmyjO7+9HM6CEGx29BA==",
+  "success": true,
+  "projectFilePath": "C:\\CSharp\\caracteresETextos\\caracteresETextos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.lira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
